@@ -32,7 +32,7 @@ This weekend you will solve these issues, as well as finish your OOP refactor an
     - Are there any relatively simple features that could be added to make the experience better? ( A scoreboard is simple enough. Playing someone over the internet would be to complex for now....)
   3. Spend at least 5 minutes looking at their code. Think about
     - Do you see any bad practices? (for example inline CSS or JS, generically named variables like `var a =`)
-  4. Take a look at the Issues page on [Garnet's GitHub repo]( https://github.com/ga-dc/garnet/issues) for some example of how to name issues.
+  4. Take a look at the Issues page on [Garnet's GitHub repo]( https://github.com/ga-dc/garnet/issues) for some examples of how to name issues.
   4. Use your new skills to submit at least 2 (but no more than four) issues.
 
 #### Deliverable
