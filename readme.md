@@ -12,9 +12,9 @@ Today you will be learning about GitHub issues. You will also be reviewing two o
 
 This weekend you will solve these issues, as well as finish your OOP refactor and add some new style to your tic-tac-toe game.
 
-- If your tic-tac-toe repo is a `fork`, which it probably is, in your own Tic-Tac-Toe repo please do the following:
-  1. Go to the Settings page
-  2. Check the box next to Issues (this allows issues to be made on a forked repo)
+- If your tic-tac-toe repo is a `fork`, which it probably is, in your own tic-tac-toe repo please do the following:
+  - Go to the Settings page
+  -  Check the box next to Issues (this allows issues to be made on a forked repo)
 
 
 - Head over to [GitHub's documentation on how to create an issue](https://help.github.com/articles/creating-an-issue/) and read up!
