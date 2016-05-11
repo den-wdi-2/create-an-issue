@@ -53,9 +53,9 @@ This weekend you will do the following things to make this game worthy of your P
 
 Your result will be a beautiful, functional Browser game using the sophisticated object oriented pattern that employers usually want their developers to know! And to think it's only the end of Week 2!
 
-Bonus:
+### Additional Resources
 
-4. Become a issue guru by reading GitHub's [Mastering Issues Documentation](https://guides.github.com/features/issues/).
+- Become a issue guru by reading GitHub's [Mastering Issues Documentation](https://guides.github.com/features/issues/).
 
 ### Self Evaluation
 
