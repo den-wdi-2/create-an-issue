@@ -43,7 +43,7 @@ This weekend you will solve these issues, as well as finish your OOP refactor an
 
 ### Make Your Tic Tac Toe Game Portfolio Worthy!
 
-You've already spent a little time refactoring your code into OOP! This is great! Now you have at least four issues on your GitHub repo! This weekend you will do the following things to make this game worthy of your Portfolio!
+This weekend you will do the following things to make this game worthy of your Portfolio!
 
 1. Finish refactoring your game into OOP if you haven't already done it.
 2. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)!
