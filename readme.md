@@ -46,9 +46,9 @@ This weekend you will solve these issues, as well as finish your OOP refactor an
 This weekend you will do the following things to make this game worthy of your Portfolio!
 
 1. Finish refactoring your game into OOP if you haven't already done it.
-2. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)!
-2. Solve *at least two* the issues on your repo. But as many as you reasonably can. 
+2. Solve *at least two* the issues on your repo. But as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
 3. Put some extra work into the design of your game. Make it beautiful! Make it modern! Add bootstrap if you like! Add some animations! Go nuts.
+4. Host your site on GitHub Pages. It's easy! Check the docs [here](https://pages.github.com/)
 
 
 Your result will be a beautiful, functional Browser game using the sophisticated object oriented pattern that employers usually want their developers to know! And to think it's only the end of Week 2!
