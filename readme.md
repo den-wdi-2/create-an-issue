@@ -8,7 +8,7 @@ Market: SF
 # GitHub Issues Lab
 ## Creating an Issue on your Fellow Developers Tic Tac Toe game
 
-Today you will be learning about GitHub issues. You will also be reviewing two of your peers code and submitting two issues on each one of their tic-tac-toe repos.
+Today you will be learning about GitHub issues. You will also be reviewing two of your peers' code and submitting two issues on each one of their tic-tac-toe repos.
 
 This weekend you will solve these issues, as well as finish your OOP refactor and add some new style to your tic-tac-toe game.
 
@@ -22,8 +22,7 @@ This weekend you will solve these issues, as well as finish your OOP refactor an
 ## Exercise
 
 #### Requirements
-- Go to [WDI-29's page on Garnet](https://garnet.wdidc.org/cohorts/20)
-- The two people below your name on the roster will be the people who's code you will review and submit issues on. (If you are one of the bottom two people on the list, just wrap around so the first two people get reviewed also.)
+- Look across the aisle in the middle of the class.  The two people at the table on the other side will be the people whose code you will review and submit issues on.
 - For each of these two developers' code do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
@@ -33,21 +32,21 @@ This weekend you will solve these issues, as well as finish your OOP refactor an
   3. Spend at least 5 minutes looking at their code. Think about
     - Do you see any bad practices? (for example inline CSS or JS, generically named variables like `var a =`)
   4. Take a look at the Issues page on [Garnet's GitHub repo]( https://github.com/ga-dc/garnet/issues) for some examples of how to name issues.
-  4. Use your new skills to submit at least 2 (but no more than four) issues.
+  5. Use your new skills to submit at least 2, but no more than 4, issues.
 
 #### Deliverable
 
-  The four issues you submit on your two fellow developers repos ARE your deliverable.
+  The 2-4 issues you submit on your two fellow developers' repos ARE your deliverable.
 
-## This Weekends Assignment
+## This Weekend's Assignment
 
 ### Make Your Tic Tac Toe Game Portfolio Worthy!
 
 This weekend you will do the following things to make this game worthy of your Portfolio!
 
 1. Finish refactoring your game into OOP if you haven't already done it.
-2. Solve *at least two* the issues on your repo. But as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
-3. Put some extra work into the design of your game. Make it beautiful! Make it modern! Add bootstrap if you like! Add some animations! Go nuts.
+2. Solve *at least two* of the issues on your repo, but as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
+3. Put some extra work into the design of your game. Make it beautiful! Make it modern! Add Bootstrap if you like! Add some animations! Go nuts.
 4. Host your site on GitHub Pages. It's easy! Check the docs [here](https://pages.github.com/)
 
 
@@ -55,7 +54,7 @@ Your result will be a beautiful, functional Browser game using the sophisticated
 
 ### Additional Resources
 
-- Become a issue guru by reading GitHub's [Mastering Issues Documentation](https://guides.github.com/features/issues/).
+- Become an issue guru by reading GitHub's [Mastering Issues Documentation](https://guides.github.com/features/issues/).
 
 ### Self Evaluation
 
