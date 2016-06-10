@@ -32,8 +32,7 @@ This weekend you will solve these issues, as well as finish your OOP refactor an
   3. Spend at least 5 minutes looking at their code. Think about
     - Do you see any bad practices? (for example inline CSS or JS, generically named variables like `var a =`)
   4. Take a look at the Issues page on [Garnet's GitHub repo]( https://github.com/ga-dc/garnet/issues) for some examples of how to name issues.
-  5. Navigate to your reviewee's GitHub repo, and select the Issues tab.
-  6. Use your new skills to submit at least 2, but no more than 4, issues.
+  5. Use your new skills to submit at least 2, but no more than 4, issues.
 
 #### Deliverable
 
