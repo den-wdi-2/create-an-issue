@@ -10,7 +10,7 @@ Market: SF
 
 Today you will be learning about GitHub issues. You will also be reviewing two of your peers' code and submitting two issues on each of their Racer Game repos.
 
-Tonight you will solve these issues, as well as any the Instructors created, and add some new style to your Racer Game.
+Tonight you will solve these issues, as well as any the Instructors created, and polishing your Racer Game.
 
 - If your Racer Game repo is a `fork`, which it probably is, in your own Racer Game repo please do the following:
   - Go to the Settings page
